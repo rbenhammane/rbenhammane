@@ -25,6 +25,9 @@ Building software products and technology solutions, combining engineering execu
 ### [VentureKit](https://venturekit.dev)
 A development framework focused on building software products with reusable foundations and consistent engineering practices.
 
+### [VentureCMS](https://venturecms.com)
+An AI-powered headless CMS built with VentureKit, designed to help developers and teams manage and deliver content through modern application architectures.
+
 ### [MyCohort](https://mycohort.space)
 A community platform designed to connect people, facilitate knowledge sharing, and create meaningful professional relationships.
 
