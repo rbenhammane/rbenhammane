@@ -19,20 +19,25 @@ Through [VentureCowork](https://venturecowork.com), I work on software products,
 
 ## Selected Work
 
-### [VentureCowork](https://venturecowork.com)
-Building software products and technology solutions, combining engineering execution with product and architectural ownership.
-
 ### [VentureKit](https://venturekit.dev)
-A development framework focused on building software products with reusable foundations and consistent engineering practices.
+A software development framework designed to provide reusable foundations for building and delivering software products.
+
+**Focus:** Software architecture, developer experience, reusable infrastructure.
 
 ### [VentureCMS](https://venturecms.com)
-An AI-powered headless CMS built with VentureKit, designed to help developers and teams manage and deliver content through modern application architectures.
+An AI-powered headless CMS built on the VentureKit ecosystem, focused on modern content management and application integration.
+
+**Focus:** Headless architecture, AI integration, API design.
 
 ### [MyCohort](https://mycohort.space)
-A community platform designed to connect people, facilitate knowledge sharing, and create meaningful professional relationships.
+A community platform designed to connect members, facilitate knowledge sharing, and improve engagement.
 
-### [MSB Mobility](https://msb.ma)
-A multi-application mobility ecosystem connecting administrators, operators, drivers, parents, and management through web and mobile applications, supported by vehicle-tracking infrastructure.
+**Focus:** Product engineering, community platforms, user experience.
+
+### MSB Mobility
+A multi-application mobility ecosystem connecting administrators, operators, drivers, parents, and management, supported by vehicle-tracking infrastructure.
+
+**Focus:** Multi-platform architecture, mobile applications, operational systems, infrastructure.
 
 ## Engineering Interests
 
