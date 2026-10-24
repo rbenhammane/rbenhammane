@@ -22,13 +22,13 @@ Through [VentureCowork](https://venturecowork.com), I work on software products,
 ### [VentureCowork](https://venturecowork.com)
 Building software products and technology solutions, combining engineering execution with product and architectural ownership.
 
-### VentureKit
+### [VentureKit](https://venturekit.dev)
 A development framework focused on building software products with reusable foundations and consistent engineering practices.
 
-### MyCohort
+### [MyCohort](https://mycohort.space)
 A community platform designed to connect people, facilitate knowledge sharing, and create meaningful professional relationships.
 
-### MSB Mobility
+### [MSB Mobility](https://msb.ma)
 A multi-application mobility ecosystem connecting administrators, operators, drivers, parents, and management through web and mobile applications, supported by vehicle-tracking infrastructure.
 
 ## Engineering Interests
